@@ -1,6 +1,8 @@
 # DMM_Fall2021
 Digital Modelling Methods UH
 
+![Digital Modelling Methods](https://i.imgur.com/wUQUlbS.png)
+
 Welcome to the Digital Modelling Methods course at UH School of Art
 In this repository, you will find the syllabus, calendar, and course other course content
 
