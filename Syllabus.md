@@ -36,10 +36,10 @@ The minimum requirements for a laptop to run the software that is required for t
 * 3 GB of storage
 * Less than 10 year old
 ## Grading
-Projects: 60% 
-In-Class exercises: 20%
-Homework: 10%
-Attendance 10%
+* Projects: 60% 
+* In-Class exercises: 20%
+* Homework: 10%
+* Attendance 10%
 Opportunities for extra credit are available where appropriate
 ## Attendance
 Students are expected to attend each class. A late arrival or early departure will count as an absence.
