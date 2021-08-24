@@ -17,7 +17,7 @@ We will be traversing this calendar list in sequential order from start to finis
 ### A2 Installing software 
   * 3D modelling Basics 
   * Blender learning the interface 
-  * homework find these menu items
+  * homework menu interface scavenger hunt
 ### A3. Making box shapes and primitives 
   * applying transformations
   * homework: Practice Modelling Box and primitive Shapes tutorials
@@ -116,7 +116,7 @@ We will be traversing this calendar list in sequential order from start to finis
 ### D5. Introduce project 4 (model an enclosure with a moving lid for an object of your choosing, and animate it)
   * Measuring
   * Bring the 3d scanned model into the Fusion workflow 
-  * Exporting objects object
+  * Exporting objects
 ### D6. Blender Animation basics
   * Keyframes and tweening
   * Interpolation curves
