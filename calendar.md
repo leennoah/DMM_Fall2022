@@ -17,10 +17,12 @@ We will be traversing this calendar list in sequential order from start to finis
 ### A2 Installing software 
   * 3D modelling Basics 
   * Blender learning the interface 
-  * homework menu interface scavenger hunt
+  * homework: complete the menu interface worksheet on the last page of the PDF: [HERE](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Blender%20Interface.pdf)
 ### A3. Making box shapes and primitives 
   * applying transformations
-  * homework: Practice Modelling Box and primitive Shapes tutorials
+  * homework: Practice Modelling with the following tutorials:
+  * * [tutorial 1](https://www.youtube.com/watch?v=98FkRIbihyQ&list=PL_esdUc_jqv_dt91sArKorjUsbSe2xBtR&index=8)
+  * * [tutorial 2](https://www.youtube.com/watch?v=51SdWI-yof4)
 ### A4. Modifiers
   * Mesh sculpting Introduction
   * learning the Interface 
