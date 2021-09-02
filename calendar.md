@@ -25,8 +25,9 @@ We will be traversing this calendar list in sequential order from start to finis
   * * [tutorial 2](https://www.youtube.com/watch?v=51SdWI-yof4)
 ### A4. Modifiers
   * Mesh sculpting Introduction
-  * learning the Interface 
-  * homework sculpt something crazy abstract
+  * learning the Sculpting Interface and some tools
+  * Dynamic Topology and the sculpting workflow 
+  * homework sculpt a shelf full of french bread
 ### A5. Looking at all the brushes and settings 
   * import reference images (install pureRef)
   * homework practice each brush - write down something each could be used for
