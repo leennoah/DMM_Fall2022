@@ -27,10 +27,12 @@ We will be traversing this calendar list in sequential order from start to finis
   * Mesh sculpting Introduction
   * learning the Sculpting Interface and some tools
   * Dynamic Topology and the sculpting workflow 
-  * homework sculpt a shelf full of french bread
+  * homework: sculpt a shelf full of french bread
 ### A5. Looking at all the brushes and settings 
   * import reference images (install pureRef)
-  * homework practice each brush - write down something each could be used for
+  * more sculpting practice
+  * learning to use masks in sculpt mode
+  * homework: Adapt this tutorial to make a moon with a face [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
 ### A6. Sculpt something today Practice with technique and brushes
   * Getting the hang of things
   * In-class still life sculpt
