@@ -29,15 +29,18 @@ We will be traversing this calendar list in sequential order from start to finis
   * Dynamic Topology and the sculpting workflow 
   * homework: sculpt a shelf full of french bread
 ### A5. Looking at all the brushes and settings 
-  * import reference images (install pureRef)
+  * import reference images
   * more sculpting practice
   * learning to use masks in sculpt mode
   * homework: Adapt this tutorial to make a moon with a face [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
-### A6. Sculpt something today Practice with technique and brushes
-  * Getting the hang of things
-  * In-class still life sculpt
-  * homework sculpt something from home
-### A7. Introduce Project 1 (Model yourself as an alien from another planet)
+### A6. Sculpt a Skull
+  * Getting the hang of the work flow
+  * practice skulpting an organic object
+  * First look at materials
+  * First Look at Camera and Rendering
+  * homework: Recreate the still life by Philippe de Champaigne
+  * Introduce Project 1 (Model yourself as an alien from another planet)
+### A7. In Class Work Day
   * Sculpt a face workshop
   * homework begin project 1
 ### A8. Work Day
