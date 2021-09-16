@@ -39,11 +39,13 @@ We will be traversing this calendar list in sequential order from start to finis
   * First look at materials
   * First Look at Camera and Rendering
   * homework: Recreate the still life by Philippe de Champaigne
-  * Introduce Project 1 (Model yourself as an alien from another planet)
+ 
 ### A7. In Class Work Day
-  * Sculpt a face workshop
+  * UV Unwrapping and Texture Painting 
+  * Introduce Project 1 (Model yourself as an alien from another planet)
   * homework begin project 1
 ### A8. Work Day
+  * Sculpt a face workshop
   * talk about material nodes (procedural textures) 
   * homework add one or more materials to your project
 
