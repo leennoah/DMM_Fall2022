@@ -49,7 +49,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * talk about material nodes (procedural textures) 
   * homework add one or more materials to your project
 
-`Project 1 Due Thursday September 16th`
+`Project 1 Due Thursday September 23th`
 
 ### B1. Reducing a mesh for animating.
   * Learn from artist video tutorial
