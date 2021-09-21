@@ -40,14 +40,15 @@ We will be traversing this calendar list in sequential order from start to finis
   * First Look at Camera and Rendering
   * homework: Recreate the still life by Philippe de Champaigne
  
-### A7. In Class Work Day
-  * UV Unwrapping and Texture Painting 
+### A7. UV Unwrapping and Texture Painting
   * Introduce Project 1 (Model yourself as an alien from another planet)
-  * homework begin project 1
+  * Learn the basics of unwrapping polygon meshes
+  * Texture painting on various different shapes
+  * Practice painting the skull
+  
 ### A8. Work Day
-  * Sculpt a face workshop
-  * talk about material nodes (procedural textures) 
-  * homework add one or more materials to your project
+  * Work on your project first half of class
+  * Sculpt a face in-class demo secondhalf of class
 
 `Project 1 Due Thursday September 23th`
 
