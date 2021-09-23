@@ -52,13 +52,14 @@ We will be traversing this calendar list in sequential order from start to finis
 
 `Project 1 Due Thursday September 23th`
 
-### B1. Retopologizing a mesh for animating.
-  * Learn from artist video tutorial
-  * Homework - Simplify your mesh as if for animating
-### B2. Introduction to image texturing 
-  * Concept of layering
-  * Demonstration of layer with nodes 
-  * Displacement and baking textures
+### B1. Texturing with images
+  * First, Short Crit for Project 1
+  * loading images as textures
+  * Homework - Complete the McDonalds textures
+### B2. Introduction to shader nodes 
+  * Concept of nodes
+  * Material maps 
+  * bump maps and others
 ### B3. Downloading textures and applying them to meshes
   * Marking seams
   * uvUnwrap - try it 
