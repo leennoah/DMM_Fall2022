@@ -56,6 +56,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * First, Short Crit for Project 1
   * loading images as textures
   * Homework - Complete the McDonalds textures
+  * !!Bonus Homework - Take photograph of your own eye and apply it as a material. Add it to the McDonalds scene.
 ### B2. Introduction to shader nodes 
   * Concept of nodes
   * Material maps 
