@@ -60,8 +60,8 @@ We will be traversing this calendar list in sequential order from start to finis
 ### B2. Introduction to shader nodes 
   * Concept of nodes
   * Material maps 
-  * bump maps and others
-  * Homework - Watch and do these two tutorials
+  * bump maps and others (aka PBR textures)
+  * Homework - Watch and do these two tutorials (Procedural Texture Tutorials)
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
 ### B3. Procedural Textures
