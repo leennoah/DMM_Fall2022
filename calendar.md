@@ -61,6 +61,9 @@ We will be traversing this calendar list in sequential order from start to finis
   * Concept of nodes
   * Material maps 
   * bump maps and others
+  * Homework - Watch and do these two tutorials
+  * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
+  * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
 ### B3. Downloading textures and applying them to meshes
   * Marking seams
   * uvUnwrap - try it 
