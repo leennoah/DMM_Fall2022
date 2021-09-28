@@ -64,21 +64,22 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework - Watch and do these two tutorials
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
-### B3. Downloading textures and applying them to meshes
-  * Marking seams
-  * uvUnwrap - try it 
-  * homework add your own eyes to your alien from Project 1
+### B3. Procedural Textures
+  * Tips and Tricks
+  * Looking at all of the different nodes 
+  * Exploring effects
 ### B4. Textures and material nodes
-  * exploring effects
+  * TBA
   * homework watch nodes/textures tutorial
 ### B5. Work day
+  * Visiting Artist Demo and Lecture
   * unwrap and apply materials and textures to your project 1 files
   * homework watch unwrapping tutorial
 ### B6. Introduce Project 2 (Collect your own full-stack textures and create an object to showcase them)
   * Photoshop demo 
   * Homework watch tutorial on diy texture making
-### B7. Meet in class and release for Field Collection day
-  * Work day
+### B7. Lecture in FA building
+  * We will attend the lecture about NFTs
 ### B8. Work day
   * Work on project
   * Troubleshoot problems
