@@ -64,10 +64,10 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework - Watch and do these two tutorials (Procedural Texture Tutorials)
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
-### B3. Procedural Textures
-  * Tips and Tricks
-  * Looking at all of the different nodes 
-  * Exploring effects
+### B3. More Texturing
+  * Normal Maps
+  * Principaled BSDF explainer
+  * Environment Textures (HDRI backgrounds)
 ### B4. Textures and material nodes
   * TBA
   * homework watch nodes/textures tutorial
