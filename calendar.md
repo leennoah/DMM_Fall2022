@@ -65,9 +65,12 @@ We will be traversing this calendar list in sequential order from start to finis
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
 ### B3. More Texturing
-  * Normal Maps
   * Principaled BSDF explainer
   * Environment Textures (HDRI backgrounds)
+  * more procedural practice
+  * sourcing 3D models
+  * Homework - Model a bug encased inside a piece of Amber
+  * * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
 ### B4. Textures and material nodes
   * TBA
   * homework watch nodes/textures tutorial
