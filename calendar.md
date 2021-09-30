@@ -71,9 +71,8 @@ We will be traversing this calendar list in sequential order from start to finis
   * sourcing 3D models
   * Homework - Model a bug encased inside a piece of Amber
   * * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
-### B4. Textures and material nodes
+### B4. Texturing continued...
   * TBA
-  * homework watch nodes/textures tutorial
 ### B5. Work day
   * Visiting Artist Demo and Lecture
   * unwrap and apply materials and textures to your project 1 files
