@@ -1,6 +1,6 @@
 # Calendar
 
-[Drive Link](https://drive.google.com/drive/folders/1DOf9JSsBQ-cgYNzBX7E01pEXjwBRBviq)
+[Drive Link](https://drive.google.com/drive/folders/1DOf9JSsBQ-cgYNzBX7E01pEXjwBRBviq?usp=sharing)
 
 ```
 Class days are Tuesday and Thursday 2:30pm - 5:30pm
