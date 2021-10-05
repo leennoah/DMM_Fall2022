@@ -71,14 +71,18 @@ We will be traversing this calendar list in sequential order from start to finis
   * sourcing 3D models
   * Homework - Model a bug encased inside a piece of Amber
   * * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
-### B4. Texturing continued...
-  * TBA
-### B5. Work day
+### B4. Primer on Rendering
+  * Rendering with Cycles
+  * Denoiseing Data
+  * Compositor Nodes
+  * Introduce Project 2
+### B5. Sydney Park Visit
   * Visiting Artist Demo and Lecture
-  * unwrap and apply materials and textures to your project 1 files
-  * homework watch unwrapping tutorial
-### B6. Introduce Project 2 (Collect your own full-stack textures and create an object to showcase them)
-  * Photoshop demo 
+  * Modifiers (if time available)
+### B6. Modifiers Cont.
+  * Particle Systems
+  * Fluids
+  * Soft and Hard Bodies
   * Homework watch tutorial on diy texture making
 ### B7. Lecture in FA building
   * We will attend the lecture about NFTs
