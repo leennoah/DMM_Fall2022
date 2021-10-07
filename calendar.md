@@ -81,11 +81,9 @@ We will be traversing this calendar list in sequential order from start to finis
   * Introduce Project 2
 ### B5. Sydney Park Visit
   * Visiting Artist Demo and Lecture
-  * Modifiers (if time available)
-### B6. Modifiers Cont.
-  * Particle Systems
-  * Fluids
-  * Soft and Hard Bodies
+  * Recap previous class rendering
+  * Particles (if time available)
+### B6. Hair
   * Homework watch tutorial on diy texture making
 ### B7. Lecture in FA building
   * We will attend the lecture about NFTs
