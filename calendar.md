@@ -87,11 +87,10 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework: work on final project
 ### B7. Lecture in FA building
   * We will attend the lecture about NFTs @3:30
+  * `Project 2 Due Thursday October 14th` 
 ### B8. Work day
   * Work on project
   * Troubleshoot problems
-
-`Project 2 Due Thursday October 14th` 
 
 ### C1. Talk about rendering 
   * Interface and settings
