@@ -83,10 +83,10 @@ We will be traversing this calendar list in sequential order from start to finis
   * Visiting Artist Demo and Lecture
   * Recap previous class rendering
   * Particles (if time available)
-### B6. Hair
-  * Homework watch tutorial on diy texture making
+### B6. Rigid Bodies
+  * Homework: work on final project
 ### B7. Lecture in FA building
-  * We will attend the lecture about NFTs
+  * We will attend the lecture about NFTs @3:30
 ### B8. Work day
   * Work on project
   * Troubleshoot problems
