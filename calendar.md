@@ -88,9 +88,11 @@ We will be traversing this calendar list in sequential order from start to finis
 ### B7. Lecture in FA building
   * We will attend the lecture about NFTs @3:30
   * `Project 2 Due Thursday October 14th` 
-### B8. Work day
-  * Work on project
-  * Troubleshoot problems
+### B8. Lecture debrief, thinking about lighting
+  * Denoising Nodes
+  * 3-point lighting/studio lighting
+  * Compose a flower vase scene with lighting
+  * 
 
 ### C1. Talk about rendering 
   * Interface and settings
