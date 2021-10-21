@@ -1,5 +1,5 @@
 # Calendar
-[Downloadf Zips](https://drive.google.com/drive/folders/1DOf9JSsBQ-cgYNzBX7E01pEXjwBRBviq?usp=sharing)
+[Zip Files of 3D Assets](https://drive.google.com/drive/folders/1DOf9JSsBQ-cgYNzBX7E01pEXjwBRBviq?usp=sharing)
 
 [Drive Link](https://drive.google.com/drive/folders/1DOf9JSsBQ-cgYNzBX7E01pEXjwBRBviq?usp=sharing)
 
