@@ -100,7 +100,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Low res demo with iphone app
   * Blender: Matching image perspective to scene
   * Superimpose rendered object into scene
-  * Homework: Take an image with your phone of a space and render an image into it.
+  * Homework: 1: Model a pumpkin, Use whatever turoial video you want! 2: 3D scan something with your phone using an app. Any app as long as it is free. If your iphone uses lidar technology, take advantage of it and use it for this!!
 ### C2. 3D scanning continued
   * TBA
   * TBA
