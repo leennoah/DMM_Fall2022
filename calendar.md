@@ -95,18 +95,20 @@ We will be traversing this calendar list in sequential order from start to finis
   * Compose a flower vase scene with lighting
   * 
 
-### C1. Talk about rendering 
-  * Interface and settings
-  * Positioning the camera
-  * homework watch tutorial on eevee vs cycles rendering differences
-### C2. Composing a scene
-  * Lighting types
-  * Material properties (reflections, glass)
-  * homework watch tutorial on lighting
-### C3. 3D scanning intro
-  * General overview
-  * 3d scanning demo - lightweight version
-  * homework watch 3d scanning tutorial
+### C1. Basic 3D scanning intro 
+  * Watch video on photogrammetry basics
+  * Low res demo with iphone app
+  * Blender: Matching image perspective to scene
+  * Superimpose rendered object into scene
+  * Homework: Take an image with your phone of a space and render an image into it.
+### C2. 3D scanning continued
+  * TBA
+  * TBA
+  * TBA
+### C3. 3D scanning continued
+  * TBA
+  * TBA
+  * TBA
 ### C4. 3D scanning demo - High power version
   * Local resources vs cloud resources
   * Related 3d scanning software and tools
