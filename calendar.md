@@ -101,7 +101,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Blender: Matching image perspective to scene
   * Superimpose rendered object into scene
   * Homework: 1: Model a pumpkin, Use whatever turoial video you want! 2: 3D scan something with your phone using an app. Any app as long as it is free. If your iphone uses lidar technology, take advantage of it and use it for this!!
-### C2. 3D Scan and Pumkins
+### C2. 3D Scan and Pumpkins
   * 3D scanning tips
   * Carve digital pumpkin
   * Hair particle system - make a pumkin patch
