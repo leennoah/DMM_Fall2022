@@ -105,7 +105,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * 3D scanning tips
   * Carve digital pumpkin
   * Hair particle system - make a pumkin patch
-  * Homework: Google "meshroom". What is it? How does it work? 
+  * Homework: Google "meshroom". What is it? How does it work? Complete the Pumpkin Patch assignment from class: Render it out. 
 ### C3. 3D scanning continued
   * TBA
   * TBA
