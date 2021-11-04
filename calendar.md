@@ -101,26 +101,29 @@ We will be traversing this calendar list in sequential order from start to finis
   * Blender: Matching image perspective to scene
   * Superimpose rendered object into scene
   * Homework: 1: Model a pumpkin, Use whatever turoial video you want! 2: 3D scan something with your phone using an app. Any app as long as it is free. If your iphone uses lidar technology, take advantage of it and use it for this!!
-### C2. 3D Scan and Pumpkins
-  * 3D scanning tips
+### C2. 3D Scan and Pumpkins oct 26
+  * 3D scanning tips - mobile phone version
   * Carve digital pumpkin
   * Hair particle system - make a pumkin patch
   * Homework: Google "meshroom". What is it? How does it work? Complete the Pumpkin Patch assignment from class: Render it out. 
 ### C3. 3D scanning continued
+  * 3d scanning from photos - Meshroom software version
+  * Animation Basics - keyframes
+  * Understanding curves in the graph editor
+  * Animate a bouncing Cube
+### C4. 3D scanning continued
+  * 3D scanner demo at Engineering Building is rescheduled
+  * Particle Systems in Blender - emitters
+  * Magic Apple in class project using emitters and animation keyframes
+### C5. 3D scanner demo at engineering building nov 4
+  * Scanning a 3d obejct with a high-power handheld scanner
+  * Visiting artist talk: (Noah Leen)
+### C6. TBA
   * TBA
   * TBA
+### C7. TBA
   * TBA
-### C4. 3D scanning demo - High power version
-  * Local resources vs cloud resources
-  * Related 3d scanning software and tools
-### C5. Introduce project 3 (3D scan an object or have someone 3d scan your head. Render it onto a photo from campus)
-  * In class work day - 3D scanning
-### C6. 3D scanning field demo
-  * Visiting artist talk (Noah Leen)
-  * 3D scan a location
-### C7. Work day
-  * In class work day - 3D scanning
-  * Troubleshooting problems
+  * TBA
 ### C8. Work day
   * In class work day - 3D scanning
   * Troubleshooting problems
