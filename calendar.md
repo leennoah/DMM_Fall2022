@@ -117,7 +117,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Magic Apple in class project using emitters and animation keyframes
 ### C5. 3D scanner demo at engineering building nov 4
   * Scanning a 3d obejct with a high-power handheld scanner
-  * Visiting artist talk: (Noah Leen)
+  * Homework: pottery assignemnt
 ### C6. TBA
   * TBA
   * TBA
