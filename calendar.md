@@ -118,45 +118,41 @@ We will be traversing this calendar list in sequential order from start to finis
 ### C5. 3D scanner demo at engineering building nov 4
   * Scanning a 3d obejct with a high-power handheld scanner
   * Homework: pottery assignemnt
-### C6. TBA
-  * TBA
-  * TBA
-### C7. TBA
-  * TBA
-  * TBA
+### C6. Small 3d Scanner demo
+  * Scanning objects
+  * Introduce Project 3
+### C7. Project 3 Work Day
+  * Refresher on project 3 topics
+  * Capture scans with your partner
 ### C8. Work day
   * In class work day - 3D scanning
   * Troubleshooting problems
 
-`Project Due Tuesday November 11th`
+`Project Due Tuesday November 30th`
 
-### D1. Bonus VR sculpting day
-  * In class demo
-  * Take turns using
-  * Exporting VR and importing to Blender
-### D2. Install Fusion
+### D1. Install Fusion
   * Hard surface modelling
   * architectural/industrial parts vs blender sculpting
   * Homework watch tutorial Splines vs Meshes
-### D3. Intro to the interface 
+### D2. Intro to the interface 
   * Top-down modelling techniques and workflow
   * homework watch beginner tutorial on Fusion modeling
-### D4. In-class tutorial
+### D3. In-class tutorial
   * Understanding components
   * Make a box with a hinged lid
   * Make blueprint/plans from the design
-### D5. Introduce project 4 (model an enclosure with a moving lid for an object of your choosing, and animate it)
+### D4. Introduce project 4 (model an enclosure with a moving lid for an object of your choosing, and animate it)
   * Measuring
   * Bring the 3d scanned model into the Fusion workflow 
   * Exporting objects
-### D6. Blender Animation basics
+### D5. Blender Animation basics
   * Keyframes and tweening
   * Interpolation curves
   * Looking at Urs Fischer (and other artists) digital animations
-### D7. Work day
+### D6. Work day
   * Putting it all together
   * Troubleshooting problems
-### D8. Output methods for digital projects - in class discussion topics
+### D7. Output methods for digital projects - in class discussion topics
   * Projections
   * 3D printing
   * Video output
