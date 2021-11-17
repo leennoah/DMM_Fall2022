@@ -124,9 +124,10 @@ We will be traversing this calendar list in sequential order from start to finis
 ### C7. Project 3 Work Day
   * Refresher on project 3 topics
   * Capture scans with your partner
-### C8. Work day
-  * In class work day - 3D scanning
-  * Troubleshooting problems
+### C8. Project 3 Work day
+  * In class work day - 3D again with your partner
+  * Problems
+  * Homework: Work on Project 3
 
 `Project Due Tuesday November 30th`
 
