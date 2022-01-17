@@ -4,19 +4,20 @@
 
 ```
 Class days are Tuesday and Thursday 2:30pm - 5:30pm
-First Day of Classes: Monday, August 23, 202
-Official Closing: Wednesday, December 15, 2021
-MLK Holiday: September 6, 2021
-Last day to Drop:September 8, 2021
-Last day to withdrawal: November 4, 2021
-Thanks Giving: November 24-27, 2021
-Last day of class: December 4, 2021
+First Day of Classes: Tuesday, January 18, 2021
+Official Closing: Thursday May 12, 2022
+Last day to Drop: February 2, 2022
+Last day to withdrawal: April 20, 2022
+Spring Break: March 14 - 19, 2022
+Last day of class: May 2, 2022
 ```
 
 ## Each heading (A1, A2, B1... etc) represents a class day. 
 We will be traversing this calendar list in sequential order from start to finish, one heading each class day with adjustments as needed. There are 4 projects total with each due due date listed below. Where it says homework, the details of the homework assignemnt will be provided in class.
 
 ### A1. Course intro
+  * Syllabus
+  * Introductions
 ### A2 Installing software 
   * 3D modelling Basics 
   * Blender learning the interface 
@@ -69,7 +70,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
 ### B3. More Texturing
   * Principaled BSDF explainer
-  * Environment Textures (HDRI backgrounds)
+  * Env res (HDRI backgrounds)
   * more procedural practice
   * sourcing 3D models
   * Homework - Model a bug encased inside a piece of Amber
