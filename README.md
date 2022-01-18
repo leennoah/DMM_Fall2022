@@ -1,4 +1,4 @@
-# Digital Modelling Methods Fall 2021 | ART 3367/3396 
+# Digital Modelling Methods | ART 3367/3396 
 
 ![Digital Modelling Methods](https://i.imgur.com/wUQUlbS.png)
 
