@@ -56,10 +56,10 @@ We will be traversing this calendar list in sequential order from start to finis
 
 
 ### B1. Texturing with images
-  * First, Short Crit for Project 1
   * loading images as textures
-  * Homework - Complete the McDonalds textures
-  * !!Bonus Homework - Create your own custom packaging for the McDonalds texture.
+  * McDonalds example
+  * Homework - Model a piece of pottery and apply your own image texture to it.
+  * !!Bonus Homework - Apply McDonalds or other corporate branding to your pottery
 ### B2. Introduction to shader nodes 
   * Concept of nodes
   * Material maps 
