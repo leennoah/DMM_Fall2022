@@ -18,7 +18,9 @@ We will be traversing this calendar list in sequential order from start to finis
 ### A1. Course intro
   * Syllabus
   * Introductions
-### A2 Installing software 
+  * Read this article about system requirements [Blender system Requirements](https://all3dp.com/2/blender-software-requirements-run-blender/)
+  * Homework: Install Belnder 3.0 [Download Here](https://www.blender.org/download/)
+### A2 Getting Started 
   * 3D modelling Basics 
   * Blender learning the interface 
   * homework: complete the menu interface worksheet on the last page of the PDF: [HERE](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Blender%20Interface.pdf)
