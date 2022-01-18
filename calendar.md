@@ -1,7 +1,7 @@
 
 # Digital Modeling Methods - Calendar
 
-[Drive Link](https://drive.google.com/drive/folders/1DOf9JSsBQ-cgYNzBX7E01pEXjwBRBviq?usp=sharing)
+[Drive Link](https://drive.google.com/drive/folders/1wUsGgVAknz35i2AVx9VkayY-j59b_ndH?usp=sharing)
 
 ```
 Class days are Tuesday and Thursday 2:30pm - 5:30pm
