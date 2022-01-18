@@ -43,24 +43,23 @@ We will be traversing this calendar list in sequential order from start to finis
   * First look at materials
   * First Look at Camera and Rendering
   * homework: Recreate the still life by Philippe de Champaigne
- 
 ### A7. UV Unwrapping and Texture Painting
-  * Introduce Project 1 (Model yourself as an alien from another planet)
   * Learn the basics of unwrapping polygon meshes
   * Texture painting on various different shapes
   * Practice painting the skull
-  
+  * Introduce Project 1 (Revisit the French Bread project and expand on it to make a full storefront)
+  * `Project 1 Due Tuesday February 8th`
 ### A8. Work Day
-  * Work on your project first half of class
-  * Sculpt a face in-class demo secondhalf of class
+  * Work on your project in class
+  * intro to simplifying meshes (retopology)
+  * Homework: read this article: [What is Retopology?](https://conceptartempire.com/retopology/)
 
-`Project 1 Due Thursday September 23th`
 
 ### B1. Texturing with images
   * First, Short Crit for Project 1
   * loading images as textures
   * Homework - Complete the McDonalds textures
-  * !!Bonus Homework - Take photograph of your own eye and apply it as a material. Add it to the McDonalds scene.
+  * !!Bonus Homework - Create your own custom packaging for the McDonalds texture.
 ### B2. Introduction to shader nodes 
   * Concept of nodes
   * Material maps 
@@ -79,57 +78,39 @@ We will be traversing this calendar list in sequential order from start to finis
   * Rendering with Cycles
   * Denoiseing Data
   * Compositor Nodes
-  * Introduce Project 2
-### B5. Sydney Park Visit
-  * Visiting Artist Demo and Lecture
-  * Recap previous class rendering
-  * Particles (if time available)
-### B6. Rigid Bodies
-  * Homework: work on final project
-### B7. Lecture in FA building
-  * We will attend the lecture about NFTs @3:30
-  * `Project 2 Due Thursday October 14th` 
-### B8. Lecture debrief, thinking about lighting
+  * Introduce Project 2 (3D sculpture Gallery with materials and shaders)
+  * `Project 2 Due Thursday March 3rd` 
+### B5. Thinking about lighting
   * Denoising Nodes
   * 3-point lighting/studio lighting
   * Compose a flower vase scene with lighting
-  * 
+### B6. Rigid Bodies
+  * Physics simulations with gravity
+  * Homework: Make a Rune Goldberg machine using rigid bodies
 
-### C1. Basic 3D scanning intro 
-  * Watch video on photogrammetry basics
-  * Low res demo with iphone app
-  * Blender: Matching image perspective to scene
-  * Superimpose rendered object into scene
-  * Homework: 1: Model a pumpkin, Use whatever turoial video you want! 2: 3D scan something with your phone using an app. Any app as long as it is free. If your iphone uses lidar technology, take advantage of it and use it for this!!
-### C2. 3D Scan and Pumpkins oct 26
-  * 3D scanning tips - mobile phone version
-  * Carve digital pumpkin
+### C1.Particle System - Hair 
   * Hair particle system - make a pumkin patch
-  * Homework: Google "meshroom". What is it? How does it work? Complete the Pumpkin Patch assignment from class: Render it out. 
-### C3. 3D scanning continued
-  * 3d scanning from photos - Meshroom software version
-  * Animation Basics - keyframes
+  * Homework: Make a patch of grass  
+### C2. Superimposing renders on photos
+  * Blender: Matching image perspective to scene using an add-on
+  * Superimpose rendered object into scene
+  * Introduce Project 3 (scan yourself and an object and render them into a photo)
+  * `Project Due Tuesday April 7th`
+### C3. 3D scanning using in class scanner
+  * 3d scanning demo in-class
+### C4. 3D scanning using a smartPhone app
+  * 3d scanning demo in-class
+### C5. 3D scanner using photogrammetry (meshroom)
+  * 3d scanning demo in-class
+  * Homework: pottery assignemnt
+### C6. Animation Basics - keyframes
   * Understanding curves in the graph editor
   * Animate a bouncing Cube
-### C4. 3D scanning continued
-  * 3D scanner demo at Engineering Building is rescheduled
-  * Particle Systems in Blender - emitters
-  * Magic Apple in class project using emitters and animation keyframes
-### C5. 3D scanner demo at engineering building nov 4
-  * Scanning a 3d obejct with a high-power handheld scanner
-  * Homework: pottery assignemnt
-### C6. Small 3d Scanner demo
-  * Scanning objects
-  * Introduce Project 3
-### C7. Project 3 Work Day
-  * Refresher on project 3 topics
+### C7. Animation follow up
   * Capture scans with your partner
+  * Homework: What is Rigging? [Intro to Armatures](https://www.youtube.com/watch?v=jbFjTFFwPsM)
 ### C8. Project 3 Work day
-  * In class work day - 3D again with your partner
-  * Problems
-  * Homework: Work on Project 3
-
-`Project Due Tuesday November 30th`
+  * Work Day
 
 ### D1. Install Fusion
   * Hard surface modelling
@@ -153,15 +134,10 @@ We will be traversing this calendar list in sequential order from start to finis
 ### D6. Work day
   * Putting it all together
   * Troubleshooting problems
-### D7. Output methods for digital projects - in class discussion topics
-  * Projections
-  * 3D printing
-  * Video output
-  * simulations
-  * Digital performance
-  * Virtual worlds
-  * Rendering on photographs (fusion photography)
+### D7. Last Day
+  * Pizza and farewells
+  * `Project 4 Due April 28`
 
-`Project 4 Thursday December 2nd`
+
 
 
