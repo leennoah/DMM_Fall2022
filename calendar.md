@@ -49,6 +49,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Practice painting the skull
   * Introduce Project 1 (Revisit the French Bread project and expand on it to make a full storefront)
   * `Project 1 Due Tuesday February 8th`
+  * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
 ### A8. Work Day
   * Work on your project in class
   * intro to simplifying meshes (retopology)
@@ -80,6 +81,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Compositor Nodes
   * Introduce Project 2 (3D sculpture Gallery with materials and shaders)
   * `Project 2 Due Thursday March 3rd` 
+  * Homework: TBA
 ### B5. Thinking about lighting
   * Denoising Nodes
   * 3-point lighting/studio lighting
@@ -96,21 +98,22 @@ We will be traversing this calendar list in sequential order from start to finis
   * Superimpose rendered object into scene
   * Introduce Project 3 (scan yourself and an object and render them into a photo)
   * `Project Due Tuesday April 7th`
+  * Homework: Capture a scene on campus
 ### C3. 3D scanning using in class scanner
   * 3d scanning demo in-class
+  * work day - scan your partner
 ### C4. 3D scanning using a smartPhone app
   * 3d scanning demo in-class
+  * * work day - scan your partner
 ### C5. 3D scanner using photogrammetry (meshroom)
   * 3d scanning demo in-class
-  * Homework: pottery assignemnt
+  * * work day - scan your partner
 ### C6. Animation Basics - keyframes
   * Understanding curves in the graph editor
   * Animate a bouncing Cube
+  * Homework: render the animation in higher quality
 ### C7. Animation follow up
-  * Capture scans with your partner
   * Homework: What is Rigging? [Intro to Armatures](https://www.youtube.com/watch?v=jbFjTFFwPsM)
-### C8. Project 3 Work day
-  * Work Day
 
 ### D1. Install Fusion
   * Hard surface modelling
