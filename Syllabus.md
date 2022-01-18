@@ -2,16 +2,17 @@
 ## Instructor: Daniel Calderon (dacaldera@gmail.com)
 # Syllabus
 ## Course Description
-Digital Modelling is the process of using software to create a computerized representation of a 3-dimensional object. The created object is called a 3D model and these 3-dimensional models can be sculpted and altered in interesting and unique ways using a computer. In this course, students will explore a suite of foundational computer programs such as Blender and Autodesk Fusion360 that enable the creation of digital models. These tools are fundamental to the 3D pipeline and allow room for artistic expression and creativity that lead to new ways of thinking. Also introduced in the course are techniques such as photogrammetry and laser-scanning which are methods of capturing real world objects for use in the digital realm. The class uses hands-on learning and is structured around a series of engaging projects that play with ideas of digital identity. Topics covered include mesh sculpting, nurbs-modeling, texturing, rendering, and photogrammetry.  A personal laptop is required for this course.
+Digital Modelling is the process of using software to create a computerized representation of a 3-dimensional object. The created object is called a 3D model and these 3-dimensional models can be sculpted and altered in interesting and unique ways using a computer. In this course, students will explore a suite of foundational computer programs such as Blender and Autodesk Fusion360 that enable the creation of digital models. These tools are fundamental to the 3D pipeline and allow room for artistic expression and creativity that lead to new ways of thinking. Also introduced in the course are techniques such as photogrammetry and laser-scanning which are methods of capturing real world objects for use in the digital realm. The class uses hands-on learning and is structured around a series of engaging projects that that challenge creativity. Topics covered include mesh sculpting, nurbs-modeling, texturing, rendering, and photogrammetry.  A personal laptop is required for this course.
 ## Objectives	
-* Learn about the 3D modelling ecosystem; the tools, techniques, and use cases
-* Overcome the learning curves that are usually present in 3D modelling software
-* Build up the skill with hours of 3D modelling and sculpting practice 
-* Capture textures in the field and incorporate them into your digital modelling workflow
+* Learn about the 3D modeling ecosystem; the tools, techniques, and use cases
+* Overcome the learning curves that are usually present in 3D modeling software
+* Build up the skill with hours of 3D modeling and sculpting practice 
+* Capture textures in the field and incorporate them into your digital modeling workflow
 * Employ methods of bringing real-world objects into the digital 3D space
 * Survey techniques in photogrammetry and 3D scanning
 * Feel comfortable using these tools and techniques in an artistic, creative and expressive context
 * Explore artists already working in this space and learn about their works
+
 ## Assessment 
 Students will be assessed on their performance in the course through the completion of four projects as well as in-class exercises. Each day, we will begin with a short lecture followed by work time using a computer and software. Projects will be assigned concurrent with daily exercises and the skills we learn in class will be directly applicable to the project theme. Homework assignments may consist of watching video tutorials, reading material, and researching topics. Plan on spending a few hours each week working on assigned course content outside of class-time. 
 ## Roadmap
