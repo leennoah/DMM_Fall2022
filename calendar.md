@@ -24,7 +24,7 @@ We will be traversing this calendar list in sequential order from start to finis
 ### A2 Getting Started 
   * 3D modelling Basics 
   * Blender learning the interface 
-  * homework: Go over the PDF at home one your own and then complete the menu interface worksheet on the last page of the PDF: [PDF HERE](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Blender%20Interface.pdf)
+  * homework: Go over the PDF at home on your own and then complete the menu interface worksheet on the last page of the PDF: [PDF HERE](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Blender%20Interface.pdf)
 ### A3. Making box shapes and primitives 
   * applying transformations
   * homework: Practice Modelling with the following tutorials:
