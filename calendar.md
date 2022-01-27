@@ -13,36 +13,36 @@ Spring Break: March 14 - 19, 2022
 Last day of class: May 2, 2022
 ```
 
-## Each heading (A1, A2, B1... etc) represents a class day. 
+## Each heading (A1, A2, B1... etc) represents a class day.
 We will be traversing this calendar list in sequential order from start to finish, one heading each class day with adjustments as needed. There are 4 projects total with each due due date listed below. Where it says homework, the details of the homework assignemnt will be provided in class.
 
 ### A1. Course intro
   * Syllabus
   * Introductions
   * Read this article about system requirements [Blender system Requirements](https://all3dp.com/2/blender-software-requirements-run-blender/)
-  * Homework: Install Belnder 3.0 [Download Here](https://www.blender.org/download/)
-### A2 Getting Started 
-  * 3D modelling Basics 
-  * Blender learning the interface 
+  * Homework: Install Blender 3.0 [Download Here](https://www.blender.org/download/)
+### A2 Getting Started
+  * 3D modelling Basics
+  * Blender learning the interface
   * homework: Go over the PDF at home on your own and then complete the menu interface worksheet on the last page of the PDF: [PDF HERE](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Blender%20Interface.pdf)
-### A3. Making box shapes and primitives 
+### A3. Making box shapes and primitives
   * applying transformations
-  * homework: Practice Modelling with the following tutorials:
+  * homework: Practice Modeling with the following tutorials:
   * * [tutorial 1](https://www.youtube.com/watch?v=98FkRIbihyQ&list=PL_esdUc_jqv_dt91sArKorjUsbSe2xBtR&index=8)
   * * [tutorial 2](https://www.youtube.com/watch?v=51SdWI-yof4)
-### A4. Modifiers
-  * Mesh sculpting Introduction
+### A4. Mesh Sculpting
+  * mesh sculpting introduction
   * learning the Sculpting Interface and some tools
-  * Dynamic Topology and the sculpting workflow 
+  * Dynamic Topology and the sculpting workflow
   * homework: sculpt a shelf full of french bread
-### A5. Looking at all the brushes and settings 
+### A5. Looking at all the brushes and settings
   * import reference images
   * more sculpting practice
   * learning to use masks in sculpt mode
   * homework: Adapt this tutorial to make a moon with a face [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
 ### A6. Sculpt a Skull
   * Getting the hang of the work flow
-  * practice skulpting an organic object
+  * practice sculpting an organic object
   * First look at materials
   * First Look at Camera and Rendering
   * homework: Recreate the still life by Philippe de Champaigne
@@ -64,15 +64,15 @@ We will be traversing this calendar list in sequential order from start to finis
   * McDonalds example
   * Homework - Model a piece of pottery and apply your own image texture to it.
   * !!Bonus Homework - Apply McDonalds or other corporate branding to your pottery
-### B2. Introduction to shader nodes 
+### B2. Introduction to shader nodes
   * Concept of nodes
-  * Material maps 
+  * Material maps
   * bump maps and others (aka PBR textures)
   * Homework - Watch and do these two tutorials (Procedural Texture Tutorials)
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
 ### B3. More Texturing
-  * Principaled BSDF explainer
+  * Principled BSDF explainer
   * Env res (HDRI backgrounds)
   * more procedural practice
   * sourcing 3D models
@@ -83,18 +83,18 @@ We will be traversing this calendar list in sequential order from start to finis
   * Denoiseing Data
   * Compositor Nodes
   * Introduce Project 2 (3D sculpture Gallery with materials and shaders)
-  * `Project 2 Due Thursday March 3rd` 
+  * `Project 2 Due Thursday March 3rd`
   * Homework: TBA
 ### B5. Thinking about lighting
-  * Denoising Nodes
+  * Denoiseing Nodes
   * 3-point lighting/studio lighting
   * Compose a flower vase scene with lighting
 ### B6. Rigid Bodies
   * Physics simulations with gravity
   * Homework: Make a Rune Goldberg machine using rigid bodies
 
-### C1.Particle System - Hair 
-  * Hair particle system - make a pumkin patch
+### C1.Particle System - Hair
+  * Hair particle system - make a pumpkin patch
   * Homework: Make a patch of grass  
 ### C2. Superimposing renders on photos
   * Blender: Matching image perspective to scene using an add-on
@@ -119,11 +119,11 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework: What is Rigging? [Intro to Armatures](https://www.youtube.com/watch?v=jbFjTFFwPsM)
 
 ### D1. Install Fusion
-  * Hard surface modelling
+  * Hard surface modeling
   * architectural/industrial parts vs blender sculpting
   * Homework watch tutorial Splines vs Meshes
-### D2. Intro to the interface 
-  * Top-down modelling techniques and workflow
+### D2. Intro to the interface
+  * Top-down modeling techniques and workflow
   * homework watch beginner tutorial on Fusion modeling
 ### D3. In-class tutorial
   * Understanding components
@@ -131,7 +131,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Make blueprint/plans from the design
 ### D4. Introduce project 4 (model an enclosure with a moving lid for an object of your choosing, and animate it)
   * Measuring
-  * Bring the 3d scanned model into the Fusion workflow 
+  * Bring the 3d scanned model into the Fusion workflow
   * Exporting objects
 ### D5. Blender Animation basics
   * Keyframes and tweening
@@ -143,7 +143,3 @@ We will be traversing this calendar list in sequential order from start to finis
 ### D7. Last Day
   * Pizza and farewells
   * `Project 4 Due April 28`
-
-
-
-
