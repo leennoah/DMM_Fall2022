@@ -42,7 +42,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * importing reference images
   * edit mode practice
   * sculpting mode practice and more settings to explore
-  * Dynamic Topology
+  * Dynamic Topology - [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Dyntopo.pdf)
   * in-class sculpt a moon with a face on it.
   * homework: Watch this tutorial first, then try sculpting your own caricature face/bust [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
 ### A6. Sculpt a Skull
