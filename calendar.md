@@ -24,6 +24,8 @@ We will be traversing this calendar list in sequential order from start to finis
 ### A2 Getting Started
   * 3D modelling Basics
   * Blender learning the interface
+  * [Blender interface basics reference 1](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/images/interface_01.png)
+  * [Blender interface basics reference 2](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/images/interface_02.png)
   * homework: Go over the PDF at home on your own and then complete the menu interface worksheet on the last page of the PDF: [PDF HERE](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Blender%20Interface.pdf)
 ### A3. Making box shapes and primitives
   * applying transformations
@@ -33,13 +35,16 @@ We will be traversing this calendar list in sequential order from start to finis
 ### A4. Mesh Sculpting
   * mesh sculpting introduction
   * learning the Sculpting Interface and some tools
-  * Dynamic Topology and the sculpting workflow
-  * homework: sculpt a shelf full of french bread
-### A5. Looking at all the brushes and settings
-  * import reference images
-  * more sculpting practice
+  * Sculpting tricks
   * learning to use masks in sculpt mode
-  * homework: Adapt this tutorial to make a moon with a face [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
+  * homework: sculpt a shelf full of French bread
+### A5. Looking at all the brushes and settings - [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/A5.pdf)
+  * importing reference images
+  * edit mode practice
+  * sculpting mode practice and more settings to explore
+  * Dynamic Topology
+  * in-class sculpt a moon with a face on it.
+  * homework: Watch this tutorial first, then try sculpting your own caricature face/bust [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
 ### A6. Sculpt a Skull
   * Getting the hang of the work flow
   * practice sculpting an organic object
