@@ -3,6 +3,8 @@
 
 [Drive Link](https://drive.google.com/drive/folders/1wUsGgVAknz35i2AVx9VkayY-j59b_ndH?usp=sharing)
 
+[Blender Hot Key Helper](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/hotKeyHelper.md)
+
 ```
 Class days are Tuesday and Thursday 2:30pm - 5:30pm
 First Day of Classes: Tuesday, January 18, 2021
