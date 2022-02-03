@@ -43,25 +43,25 @@ We will be traversing this calendar list in sequential order from start to finis
   * edit mode practice
   * sculpting mode practice and more settings to explore
   * Dynamic Topology - [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Dyntopo.pdf)
-  * in-class sculpt a moon with a face on it.
   * homework: Watch this tutorial first, then try sculpting your own caricature face/bust [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
 ### A6. Sculpt a Skull
-  * Getting the hang of the work flow
-  * practice sculpting an organic object
-  * First look at materials
-  * First Look at Camera and Rendering
-  * homework: Recreate the still life by Philippe de Champaigne
-### A7. UV Unwrapping and Texture Painting
-  * Learn the basics of unwrapping polygon meshes
-  * Texture painting on various different shapes
-  * Practice painting the skull
-  * Introduce Project 1 (Revisit the French Bread project and expand on it to make a full storefront)
-  * `Project 1 Due Tuesday February 8th`
-  * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
-### A8. Work Day
-  * Work on your project in class
-  * intro to simplifying meshes (retopology)
+  * Introduce Project 1 (Revisit the French Bread project and expand on it)
+  `Project 1 Due Tuesday February 15th` [PROJECT 1](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project1.pdf)
+  * in-class exercise - sculpt a moon with a face on it.
+  * practice sculpting an organic object - a skull from reference images
+  * Homework: Use your skull to recreate this still life image [Vanitas Still Life](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/images/Vanitas_Still_Life.jpg)
+### A7. Retopology
+  * Intro to simplifying meshes (retopology)
+  * In class exercise - Retopologize the model
+  * Helpful Retopology Guide [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Retopology.pdf)
+  * Homework: retopologize your French bread models
   * Homework: read this article: [What is Retopology?](https://conceptartempire.com/retopology/)
+### A8. UV Unwrapping and Texture Painting
+  * * Learn the basics of unwrapping polygon meshes
+  * Texture painting on objects
+  * Practice painting the skull
+  * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
+
 
 
 ### B1. Texturing with images
