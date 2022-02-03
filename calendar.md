@@ -44,10 +44,10 @@ We will be traversing this calendar list in sequential order from start to finis
   * sculpting mode practice and more settings to explore
   * Dynamic Topology - [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Dyntopo.pdf)
   * homework: Watch this tutorial first, then try sculpting your own caricature face/bust [Tutorial Video](https://www.youtube.com/watch?v=lKY2FIy60nc)
-### A6. Sculpt a Skull
+### A6. Sculpt a Skull [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/A6.pdf)
   * Introduce Project 1 (Revisit the French Bread project and expand on it)
   `Project 1 Due Tuesday February 15th` [PROJECT 1](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project1.pdf)
-  * in-class exercise - sculpt a moon with a face on it.
+  * in-class exercise from last class (A5) - sculpt a moon with a face on it.(see A5 pdf)
   * practice sculpting an organic object - a skull from reference images
   * Homework: Use your skull to recreate this still life image [Vanitas Still Life](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/images/Vanitas_Still_Life.jpg)
 ### A7. Retopology
