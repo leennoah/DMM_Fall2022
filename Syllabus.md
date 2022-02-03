@@ -1,6 +1,7 @@
 ## Digital Modelling Methods - ART 3367/3396
 ## Instructor: Daniel Calderon (dacaldera@gmail.com)
 # Syllabus
+[PDF version here](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/SYLLABUS_2022.pdf)
 ## Course Description
 Digital Modeling is the process of using software to create a computerized representation of a 3-dimensional object. The created object is called a 3D model and these 3-dimensional models can be sculpted and altered in interesting and unique ways using a computer. In this course, students will explore a suite of foundational computer programs such as Blender and Autodesk Fusion360 that enable the creation of digital models. These tools are fundamental to the 3D pipeline and allow room for artistic expression and creativity that lead to new ways of thinking. Also introduced in the course are techniques such as photogrammetry and 3D-scanning which are methods of capturing real world objects for use in the digital realm. The class uses hands-on learning and is structured around a series of engaging projects that challenge creativity. Topics covered include mesh sculpting, nurbs-modeling, texturing, rendering, and photogrammetry.  A personal laptop is required for this course.
 ## Objectives

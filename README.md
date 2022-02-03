@@ -4,7 +4,7 @@
 
 ## Welcome to the Digital Modeling Methods course at UH School of Art
 
-In this repository, you will find the syllabus, calendar, and other course content
+In this repository, you will find the [syllabus](https://github.com/dacaldera/DMM_Fall2021/blob/main/Syllabus.md), [calendar](https://github.com/dacaldera/DMM_Fall2021/blob/main/calendar.md), and other course content
 
 Please bookmark this page and check back for updates
 
