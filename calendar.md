@@ -58,6 +58,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Helpful Retopology Guide [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Retopology.pdf)
   * Homework: retopologize your French bread models
   * Homework: read this article: [What is Retopology?](https://conceptartempire.com/retopology/)
+  * Homework: Watch this video tutorial: [Retopologize a head](https://www.youtube.com/watch?v=3L8eZAwmG2E) (note, this video does not use blender, but shows the process in general)
 ### A8. UV Unwrapping and Texture Painting
   * * Learn the basics of unwrapping polygon meshes
   * Texture painting on objects
