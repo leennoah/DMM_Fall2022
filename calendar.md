@@ -56,26 +56,30 @@ We will be traversing this calendar list in sequential order from start to finis
   * Intro to simplifying meshes (retopology)
   * In class exercise - Retopologize the model
   * Helpful Retopology Guide [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Retopology.pdf)
+  * Helpful Quad chart: [reducing polygons](https://i.stack.imgur.com/jTnmU.png)
   * Homework: retopologize your French bread models
   * Homework: read this article: [What is Retopology?](https://conceptartempire.com/retopology/)
   * Homework: Watch this video tutorial: [Retopologize a head](https://www.youtube.com/watch?v=3L8eZAwmG2E) (note, this video does not use blender, but shows the process in general)
-### A8. UV Unwrapping and Texture Painting
-  * * Learn the basics of unwrapping polygon meshes
-  * Texture painting on objects
-  * Practice painting the skull
-  * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
+### A8. Texture Painting Intro
+  * Texture Painting PDF: [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/TexturePainting.pdf)
+  * Quick intro to Texture Painting
+  * Practice on a small model
+  * Work Day - work on your project in class
+  * Homework: Work on your French Bread project over the weekend!
+***
 
-
-
-### B1. Texturing with images
+### B1. TDB / UV Unwrapping
   * loading images as textures
   * McDonalds example
-  * Homework - Model a piece of pottery and apply your own image texture to it.
-  * !!Bonus Homework - Apply McDonalds or other corporate branding to your pottery
+  * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
+  * Watch this advanced video on UV Unwrapping [UV Unwrapping Tips](https://www.youtube.com/watch?v=8qv6DbWr6zw)
+
 ### B2. Introduction to shader nodes
   * Concept of nodes
   * Material maps
   * bump maps and others (aka PBR textures)
+  * Homework - Model a piece of pottery and apply your own procedural texture to it.
+  * !!Bonus Homework - Apply McDonalds or other corporate branding to your pottery
   * Homework - Watch and do these two tutorials (Procedural Texture Tutorials)
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
@@ -85,7 +89,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * more procedural practice
   * sourcing 3D models
   * Homework - Model a bug encased inside a piece of Amber
-  * * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
+  * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
 ### B4. Primer on Rendering
   * Rendering with Cycles
   * Denoiseing Data
