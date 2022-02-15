@@ -68,9 +68,10 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework: Work on your French Bread project over the weekend!
 ***
 
-### B1. TDB / UV Unwrapping
+### B1. UV Unwrapping Practice
+  * Practice UV unwrapping the models
   * loading images as textures
-  * McDonalds example
+  * Work Day - Complete your French Bread project and Turn it in!
   * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
   * Watch this advanced video on UV Unwrapping [UV Unwrapping Tips](https://www.youtube.com/watch?v=8qv6DbWr6zw)
 
