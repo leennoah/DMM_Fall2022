@@ -73,14 +73,14 @@ We will be traversing this calendar list in sequential order from start to finis
   * loading images as textures
   * Work Day - Complete your French Bread project and Turn it in!
   * Homework: Follow this tutorial to texture paint mushrooms: [Ryan King Mushrooms](https://www.youtube.com/watch?v=4d4N8d4ki2Y)
-  * Watch this advanced video on UV Unwrapping [UV Unwrapping Tips](https://www.youtube.com/watch?v=8qv6DbWr6zw)
+  * !!Bonus Homework - Watch this advanced video on UV Unwrapping [UV Unwrapping Tips](https://www.youtube.com/watch?v=8qv6DbWr6zw)
 
 ### B2. Introduction to shader nodes
+  * PDF is here: [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Shaders_Intro.pdf)
   * Concept of nodes
-  * Material maps
-  * bump maps and others (aka PBR textures)
+  * in Class - practice modeling objects and applying shaders to them.
   * Homework - Model a piece of pottery and apply your own procedural texture to it.
-  * !!Bonus Homework - Apply McDonalds or other corporate branding to your pottery
+  * !!Bonus Homework - Apply McDonalds or other corporate branding to your pottery using image textures
   * Homework - Watch and do these two tutorials (Procedural Texture Tutorials)
   * * [Video 1](https://www.youtube.com/watch?v=hccqcCIGGUw)
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
