@@ -1,4 +1,23 @@
 # Hot key Helper for Blender
+
+## Edit Mode
+add edge loop CTRL+R (scroll the mouse wheel for more cuts)
+select edge loop  ALT + click
+c key to enable circle select mode
+b key to eneable box select mode
+## Sculpt Mode
+To set the remesh value SHIFT + r
+to apply the remesh value CTRL + r
+## Layout Mode
+To navigate within the camera flow these steps: 
+ - press "N" to open the menu
+ - Click the "view" tab"
+ - enable the "Camera to View" checkbox
+## Node Editor
+shift + a to add a shader node
+
+... adding more soon
+
 ## Selecting edge loops
 `alt + click`
 While in edit mode (only works for vertex select mode or edge select mode, not face select mode) hold down the Alt key and click on the edge. Blender will try to select an edge loop
