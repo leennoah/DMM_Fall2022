@@ -86,11 +86,11 @@ We will be traversing this calendar list in sequential order from start to finis
   * * [Video 1](https://www.youtube.com/watch?v=iTY5ren8WTc)
 ### B3. Shading Continued
   * PDF is here: [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/ShaderPractice.pdf)
-  * shaders recap and practice 
+  * shaders recap and practice
   * Environment shader nodes
   * First use of Cycles renderer
   * in class: Download a 3D model from myMiniFactory's [Scan The World collection](https://www.myminifactory.com/search/?object=1&store=0&cat=112%2C176%2C1254%2C217%2C258%2C1184%2C137%2C228%2C128%2C299%2C763%2C675%2C580%2C324%2C578%2C223%2C1009%2C713%2C508%2C887%2C1197%2C229%2C553%2C661%2C662%2C554%2C772%2C1012%2C177%2C218%2C257%2C1234%2C1053%2C848%2C279%2C754%2C921%2C186%2C545%2C134%2C276%2C386%2C219%2C821%2C125%2C954%2C583%2C650%2C515%2C214%2C153%2C356%2C910%2C317%2C133%2C136%2C1074%2C300%2C222%2C243%2C391%2C287%2C179%2C245%2C178%2C890%2C187%2C135%2C793%2C185%2C196%2C354%2C122%2C1098%2C924%2C656%2C190%2C127%2C194%2C183%2C1129%2C1068%2C731%2C131%2C796%2C244%2C221%2C1092%2C928%2C801%2C220%2C1242%2C800%2C868%2C799%2C798) and give a texture. Render it in cycles.
-  * Homework - Continue the in-class assignment with another model
+  * Homework - Continue the in-class assignment with another model and procedural texture applied to it. Render your results using cycles rendering engine.
 
 ### B4. Primer on Rendering
   * Rendering with Cycles
