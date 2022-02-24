@@ -93,15 +93,17 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework - Continue the in-class assignment with another model and procedural texture applied to it. Render your results using cycles rendering engine.
 
 ### B4. Primer on Rendering
-  * Rendering with Cycles
-  * Denoiseing Data
-  * Compositor Nodes
-  * Introduce Project 2 (3D sculpture Gallery with materials and shaders)
-  * `Project 2 Due Thursday March 3rd`
-  * Homework: try modelling a bug encased in amber
+  * Introduce Project 2 (3D sculpture Gallery with materials and shaders) [Project 2 Info Sheet](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project2.pdf)
+  * Download this model: [Vase](https://www.myminifactory.com/object/3d-print-beaked-flagon-oinochoe-199162)
+  * Looking at Glass materials [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/GlassShader.pdf)
+  * Closer look at Normals
+  * HDRI environment 360 background image. Download this one: [Small Studio HDRI](https://polyhaven.com/a/studio_small_03)
+  * Dropping the samples of a render
+  * `Project 2 Due Thursday March 10th`
+  * Homework: try modelling a bug encased in amber (uses a particle system! :P )
   * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
 ### B5. Thinking about lighting
-  * Denoiseing Nodes
+  * Denoising Nodes
   * 3-point lighting/studio lighting
   * Compose a flower vase scene with lighting
 ### B6. Rigid Bodies
