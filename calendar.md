@@ -98,32 +98,44 @@ We will be traversing this calendar list in sequential order from start to finis
   * Looking at Glass materials [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/GlassShader.pdf)
   * Closer look at Normals
   * HDRI environment 360 background image. Download this one: [Small Studio HDRI](https://polyhaven.com/a/studio_small_03)
-  * Dropping the samples of a render
+  * Setting up an HDRI [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/HDRI_Backgrounds.pdf)
+  * Dropping the samples of a render to speed it up [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/CyclesRendering.pdf)
   * `Project 2 Due Thursday March 10th`
   * Homework: try modelling a bug encased in amber (uses a particle system! :P )
   * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
-### B5. Thinking about lighting
-  * Denoising Nodes
-  * 3-point lighting/studio lighting
-  * Compose a flower vase scene with lighting
-### B6. Rigid Bodies
-  * Physics simulations with gravity
-  * Homework: Make a Rune Goldberg machine using rigid bodies
-
-### C1.Particle System - Hair
-  * Hair particle system - make a pumpkin patch
-  * Homework: Make a patch of grass  
-### C2. Superimposing renders on photos
-  * Blender: Matching image perspective to scene using an add-on
-  * Superimpose rendered object into scene
+### B5. Constraints and the Camera
+  * Empties (empty objects for tracking purposes)
+  * constraints
+  * rendering our first animation
+  * Animating camera key frames
+  * Homework - Read this article: [EEVEE vs Cycles](https://cgcookie.com/articles/blender-cycles-vs-eevee-15-limitations-of-real-time-rendering)
+  * Homework - TBA
+### B6. Lighting
+  * Light types and settings
+  * emission lights
+  * 3-point lighting/studio lighting tips
+  * Ambient Occlusion
+  * mist and volume effects
+### B7. Recap
+  * Putting it all together
+  * Project recap
+  * Partial work day - make progress in class on Project 2
+### C1.3D scanning Intro
+  * understanding the concept
+  * Different techniques
+  * Photogrammetry demo
+  * Homework - capture 50 photos of an object
+### C2. TBA
+  * Handheld Scanning
+  * in class demo with clay objects
   * Introduce Project 3 (scan yourself and an object and render them into a photo)
+  * Partner up
   * `Project Due Tuesday April 7th`
   * Homework: Capture a scene on campus
-### C3. 3D scanning using in class scanner
-  * 3d scanning demo in-class
-  * work day - scan your partner
-### C4. 3D scanning using a smartPhone app
-  * 3d scanning demo in-class
+### C3. TBA
+  * Align blender camera with photo perspective using addon
+  * in-class work day - scan your partner
+### C4. TBA
   * * work day - scan your partner
 ### C5. 3D scanner using photogrammetry (meshroom)
   * 3d scanning demo in-class
@@ -134,7 +146,14 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework: render the animation in higher quality
 ### C7. Animation follow up
   * Homework: What is Rigging? [Intro to Armatures](https://www.youtube.com/watch?v=jbFjTFFwPsM)
-
+```Ignore this (under construction zone)
+* Blender: Matching image perspective to scene using an add-on
+* Superimpose rendered object into scene
+* Physics simulations with gravity
+* Homework: Make a Rune Goldberg machine using rigid bodies
+* Hair particle system - make a pumpkin patch
+* Homework: Make a patch of grass
+```
 ### D1. Install Fusion
   * Hard surface modeling
   * architectural/industrial parts vs blender sculpting
