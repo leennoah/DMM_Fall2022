@@ -104,12 +104,14 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework: try modelling a bug encased in amber (uses a particle system! :P )
   * [Amber tutorial video](https://www.youtube.com/watch?v=r80T4c5jFic)
 ### B5. Constraints and the Camera
+  * Camera Animation [PDF](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/CameraAnimation.pdf)
   * Empties (empty objects for tracking purposes)
   * constraints
+  * Key Frames intro
   * rendering our first animation
-  * Animating camera key frames
   * Homework - Read this article: [EEVEE vs Cycles](https://cgcookie.com/articles/blender-cycles-vs-eevee-15-limitations-of-real-time-rendering)
-  * Homework - TBA
+  * Homework - Watch this short video [Constraint Tricks](https://www.youtube.com/watch?v=L0FRwWtKaUw)
+  * Homework - Work on your project 2 Scene. Plan out an animation path for your camera
 ### B6. Lighting
   * Light types and settings
   * emission lights
