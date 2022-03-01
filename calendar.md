@@ -109,6 +109,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * constraints
   * Key Frames intro
   * rendering our first animation
+  * Homework - Redo what we did in class in the PDF above
   * Homework - Read this article: [EEVEE vs Cycles](https://cgcookie.com/articles/blender-cycles-vs-eevee-15-limitations-of-real-time-rendering)
   * Homework - Watch this short video [Constraint Tricks](https://www.youtube.com/watch?v=L0FRwWtKaUw)
   * Homework - Work on your project 2 Scene. Plan out an animation path for your camera
