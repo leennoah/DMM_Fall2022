@@ -113,11 +113,14 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework - Watch this short video [Constraint Tricks](https://www.youtube.com/watch?v=L0FRwWtKaUw)
   * Homework - Work on your project 2 Scene. Plan out an animation path for your camera
 ### B6. Lighting
-  * Light types and settings
-  * emission lights
-  * 3-point lighting/studio lighting tips
-  * Ambient Occlusion
-  * mist and volume effects
+  * Built in light types and settings [Video Tutorial: 4 basic lights](https://www.youtube.com/watch?v=EdNBfKg5uVo)
+  * Linking data between various lights
+  * Lights based on emission shaders
+  * Assigning materials to faces in edit mode (multiple materials for a single object)
+  * 3-point lighting/studio lighting tips - Adding a backdrop
+  * backface culling [Video Explination](https://www.youtube.com/watch?v=7Oqayyw4yNU)
+  * Homework - Volumetric Fog Effects [Adding fog to the scene](https://www.youtube.com/watch?v=dlvhnqtlmYk)
+  * Homework - Work on Project 2
 ### B7. Recap
   * Putting it all together
   * Project recap
