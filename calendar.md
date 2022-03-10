@@ -126,6 +126,14 @@ We will be traversing this calendar list in sequential order from start to finis
   * Putting it all together
   * Project recap
   * Partial work day - make progress in class on Project 2
+### intermission
+ * wrap up project 2
+ * intro to NFTs if time allows
+ * browse marketplaces (NiftyGateway, SuperRare, OpenSea)
+ * some artists (Aeforia, Daniel Arsham, Urs Fischer)
+ * explore virtual worlds (cryptoVoxels, decentraland)
+ * quick look at wallets (metamask) and minting an artwork (foundation.app)
+ * Homework: find three artworks that speak to you and that incorporate 3d rendering/animation
 ### C1.3D scanning Intro
   * understanding the concept
   * Different techniques
@@ -133,7 +141,7 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework - capture 50 photos of an object
 ### C2. TBA
   * Handheld Scanning
-  * in class demo with clay objects
+  * in class demo with clay objectss
   * Introduce Project 3 (scan yourself and an object and render them into a photo)
   * Partner up
   * `Project Due Tuesday April 7th`
