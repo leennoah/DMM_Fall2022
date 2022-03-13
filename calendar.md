@@ -124,16 +124,21 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework - Work on Project 2
 ### B7. Recap
   * Putting it all together
-  * Project recap
-  * Partial work day - make progress in class on Project 2
-### intermission
- * wrap up project 2
- * intro to NFTs if time allows
- * browse marketplaces (NiftyGateway, SuperRare, OpenSea)
- * some artists (Aeforia, Daniel Arsham, Urs Fischer)
- * explore virtual worlds (cryptoVoxels, decentraland)
- * quick look at wallets (metamask) and minting an artwork (foundation.app)
- * Homework: find three artworks that speak to you and that incorporate 3d rendering/animation
+  * in-class help
+  * Work day - make progress in class on Project 2
+### B8. Work day
+  * wrap up project 2
+### Intermission (spring break) - Optional (thigs to do if you are bored)
+  * Explore NFTs
+    * browse marketplaces (NiftyGateway, SuperRare, OpenSea)
+    * google search some artists (Aeforia, Daniel Arsham, Urs Fischer, Vini Naso, Vincent Schwenk, Andres Reisinger, Kushlet, Trs.mnz, Untitled Army)
+    * explore virtual worlds (cryptoVoxels, decentraland)
+    * watch video tutorials about installing/using a crypto wallet (metamask)
+  * Self-learn Geometry Nodes
+    * First watch the following two tutorial completely without doing them (just watch)
+    * start with this tutorial [tutorial 1](https://www.youtube.com/watch?v=b8mrdyJ4kO8&t=1s)
+    * then watch this one [tutorial 2](https://www.youtube.com/watch?v=uslTaqiv_7k&list=PL_esdUc_jqv_dt91sArKorjUsbSe2xBtR&index=24)
+    * Now watch them both again, this time following along with them (you will learn more this way)
 ### C1.3D scanning Intro
   * understanding the concept
   * Different techniques
