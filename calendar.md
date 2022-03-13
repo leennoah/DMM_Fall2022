@@ -139,6 +139,7 @@ We will be traversing this calendar list in sequential order from start to finis
     * start with this tutorial [tutorial 1](https://www.youtube.com/watch?v=b8mrdyJ4kO8&t=1s)
     * then watch this one [tutorial 2](https://www.youtube.com/watch?v=uslTaqiv_7k&list=PL_esdUc_jqv_dt91sArKorjUsbSe2xBtR&index=24)
     * Now watch them both again, this time following along with them (you will learn more this way)
+    * finally, search "geometry nodes tutorial" on youtube and watch/do one that interests you. 
 ### C1.3D scanning Intro
   * understanding the concept
   * Different techniques
