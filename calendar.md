@@ -141,30 +141,28 @@ We will be traversing this calendar list in sequential order from start to finis
     * then watch this one [tutorial 2](https://www.youtube.com/watch?v=uslTaqiv_7k&list=PL_esdUc_jqv_dt91sArKorjUsbSe2xBtR&index=24)
     * Now watch them both again, this time following along with them (you will learn more this way)
     * finally, search "geometry nodes tutorial" on youtube and watch/do one that interests you.
-### C1.3D scanning Intro
-  * understanding the concept
-  * Different techniques
-  * Photogrammetry demo
-  * Homework - capture 50 photos of an object
-### C2. TBA
-  * Handheld Scanning
-  * in class demo with clay objectss
-  * Introduce Project 3 (scan yourself and an object and render them into a photo)
+### C1.fSpy Blender add-on
+  * install the add-on from here:
+  * Using the interface
+  * Bringing it into blender
+### C2. 3D Scanner
+  * Scanning concepts
+  * scanning some objects
+  * Introduce Project 3 (create a self-portrait using facial scanning mesh)
   * Partner up
-  * `Project Due Tuesday April 7th`
-  * Homework: Capture a scene on campus
+  * `Project Due Tuesday April 19th`
+  * Homework: capture a photo of a space and prepare it for your project using fSpy
 ### C3. TBA
-  * Align blender camera with photo perspective using addon
+  * Scanning using photogrammetry (alternate method)
   * in-class work day - scan your partner
 ### C4. TBA
-  * * work day - scan your partner
-### C5. 3D scanner using photogrammetry (meshroom)
-  * 3d scanning demo in-class
+  * Scanning using iPhone apps (alternate method)
+  * in-class work day - scan your partner
+### C5. TBA
+  * TBA
   * * work day - scan your partner
 ### C6. Animation Basics - keyframes
-  * Understanding curves in the graph editor
-  * Animate a bouncing Cube
-  * Homework: render the animation in higher quality
+  * TBA
 ### C7. Animation follow up
   * Homework: What is Rigging? [Intro to Armatures](https://www.youtube.com/watch?v=jbFjTFFwPsM)
 ```Ignore this (under construction zone)
