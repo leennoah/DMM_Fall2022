@@ -148,31 +148,16 @@ We will be traversing this calendar list in sequential order from start to finis
 ### C2. 3D Scanner
   * Scanning concepts
   * scanning some objects
-  * Introduce Project 3 (create a self-portrait using facial scanning mesh)
+  * Introduce Project 3 (create a self-portrait using facial scanning mesh) [Project 3 Info Sheet](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project3.pdf)
   * Partner up
+  * Install Fusion360
   * `Project Due Tuesday April 19th`
-  * Homework: capture a photo of a space and prepare it for your project using fSpy
 ### C3. TBA
-  * Scanning using photogrammetry (alternate method)
   * in-class work day - scan your partner
 ### C4. TBA
-  * Scanning using iPhone apps (alternate method)
   * in-class work day - scan your partner
 ### C5. TBA
-  * TBA
-  * * work day - scan your partner
-### C6. Animation Basics - keyframes
-  * TBA
-### C7. Animation follow up
-  * Homework: What is Rigging? [Intro to Armatures](https://www.youtube.com/watch?v=jbFjTFFwPsM)
-```Ignore this (under construction zone)
-* Blender: Matching image perspective to scene using an add-on
-* Superimpose rendered object into scene
-* Physics simulations with gravity
-* Homework: Make a Rune Goldberg machine using rigid bodies
-* Hair particle system - make a pumpkin patch
-* Homework: Make a patch of grass
-```
+  * in-class work day - scan your partner
 ### D1. Install Fusion
   * Hard surface modeling
   * architectural/industrial parts vs blender sculpting
