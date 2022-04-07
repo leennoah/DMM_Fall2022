@@ -158,11 +158,13 @@ We will be traversing this calendar list in sequential order from start to finis
   * in-class work day - scan your partner
 ### C5. TBA
   * in-class work day - scan your partner
-### D1. Install Fusion
-  * Hard surface modeling
-  * architectural/industrial parts vs blender sculpting
-  * Homework watch tutorial Splines vs Meshes
-### D2. Intro to the interface
+### D1. Install Fusion360
+  * PDF is Here: [Fusion360 Intro](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Fusion360Intro.pdf)
+  * Learning the interface
+  * The idea of hard surface modeling
+  * Homework: Follow along with Lars on this famous tutorial: [Beginning Fusion360](https://www.youtube.com/watch?v=A5bc9c3S12g)
+  * Homework: Continue with Lars' Part 2 and Part 3
+### D2. Continue Fusion360
   * Top-down modeling techniques and workflow
   * homework watch beginner tutorial on Fusion modeling
 ### D3. In-class tutorial
