@@ -165,12 +165,17 @@ We will be traversing this calendar list in sequential order from start to finis
   * Homework: Follow along with Lars on this famous tutorial: [Beginning Fusion360](https://www.youtube.com/watch?v=A5bc9c3S12g)
   * Homework: Continue with Lars' Part 2 and Part 3
 ### D2. Continue Fusion360
-  * Top-down modeling techniques and workflow
-  * homework watch beginner tutorial on Fusion modeling
-### D3. In-class tutorial
-  * Understanding components
-  * Make a box with a hinged lid
-  * Make blueprint/plans from the design
+  * Model a PushPin [Fusion360_PushPin](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Fusion360_PushPin.pdf)
+  * Render an image of the pushpin
+  * Make blueprint/plans from the design of the pushpin
+  * save out an STL mesh of the pushpin
+  * homework: please watch these tutorial on Constraints:
+  * * [Explainer 1 on Constraints](https://www.youtube.com/watch?v=vNdBkiO8Nfc)
+  * * [Explainer 2 on Constraints](https://www.youtube.com/watch?v=_MpL9fPAUG4)
+  * * [Tutorial: Lego Brick](https://www.youtube.com/watch?v=6yPKMSb6ja8&list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-&index=4)
+### D3. Continue Fusion360 - NO CLASS TODAY - PRACTICE FROM HOME!
+  * Assignment: Select 3 tutorial from this list and do them: [Fusion360 tutorials](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
+  * NOTE: The tutorials above are from an older version of Fusion360. This should not impede you from following along. If in doubt, google it!  
 ### D4. Introduce project 4 (model an enclosure with a moving lid for an object of your choosing, and animate it)
   * Measuring
   * Bring the 3d scanned model into the Fusion workflow
