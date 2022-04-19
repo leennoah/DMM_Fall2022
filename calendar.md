@@ -148,7 +148,7 @@ We will be traversing this calendar list in sequential order from start to finis
 ### C2. 3D Scanner
   * Scanning concepts
   * scanning some objects
-  * Introduce Project 3 (create a self-portrait using facial scanning mesh) [Project 3 Info Sheet](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project3.pdf)
+  * Introduce Project 3 (create a self-portrait using facial scanning mesh) [Project 3 Info Sheet](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project_3.pdf)
   * Partner up
   * Install Fusion360
   * `Project Due Tuesday April 19th`
