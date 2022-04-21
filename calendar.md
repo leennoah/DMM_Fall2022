@@ -176,17 +176,20 @@ We will be traversing this calendar list in sequential order from start to finis
 ### D3. Continue Fusion360 - NO CLASS TODAY - PRACTICE FROM HOME!
   * Assignment: Select 3 tutorial from this list and do them: [Fusion360 tutorials](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
   * NOTE: The tutorials above are from an older version of Fusion360. This should not impede you from following along. If in doubt, google it!  
-### D4. Introduce project 4 (model an enclosure with a moving lid for an object of your choosing, and animate it)
-  * Measuring
-  * Bring the 3d scanned model into the Fusion workflow
-  * Exporting objects
+### D4. Continue Fusion
+  * Model a pencil box
+  * Exporting objects as stl meshes
+  * Advanced example of fusion360 [Dragon Box](https://www.youtube.com/watch?v=EtlIKFO5qpU&list=PL1-N4Av1H6xPQu_nfsQvzWHP8F917reLC&index=1)
 ### D5. Blender Animation basics
   * Keyframes and tweening
   * Interpolation curves
-  * Looking at Urs Fischer (and other artists) digital animations
-### D6. Work day
-  * Putting it all together
-  * Troubleshooting problems
+  * Intro to keyframes [keyframes](https://www.youtube.com/watch?v=8gi9lUYMRcI)
+  * Graph Editor [graph editor](https://www.youtube.com/watch?v=EBKyfal8Ju8)
+  * advanced animation:
+  * * Homework: watch tutorial on NLA animation: [Non-Linear Animation](https://www.youtube.com/watch?v=Hz1TwvSNsrA&t=56s)
+  * * Homework: second video on NLA [Non-Linear Animation 2](https://www.youtube.com/watch?v=p3m57yAcsi0)
+### D6. TBA
+  * TBA
 ### D7. Last Day
   * Pizza and farewells
   * `Project 4 Due April 28`
