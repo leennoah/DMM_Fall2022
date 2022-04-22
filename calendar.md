@@ -145,39 +145,45 @@ We will be traversing this calendar list in sequential order from start to finis
   * install the add-on from here:
   * Using the interface
   * Bringing it into blender
-### C2. 3D Scanner
-  * Scanning concepts
-  * scanning some objects
+  * in-class: Use provided photo of space to recreate in blender using fSpy
+  * Homework: Take your own photo and recreate in blender using fSpy. Add your own objects into the scene
+### C2. 3D Scanner & Install Fusion360
+  * Basics of using the hand-held scanner
+  * scanning some objects DEMO
   * Introduce Project 3 (create a self-portrait using facial scanning mesh) [Project 3 Info Sheet](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Project_3.pdf)
   * Partner up
-  * Install Fusion360
+  * Install Fusion360 <--in class
   * `Project Due Tuesday April 19th`
 ### C3. TBA
   * in-class work day - scan your partner
+  * in-class work on your project
 ### C4. TBA
   * in-class work day - scan your partner
+  * in-class work on your project
 ### C5. TBA
   * in-class work day - scan your partner
-### D1. Install Fusion360
-  * PDF is Here: [Fusion360 Intro](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Fusion360Intro.pdf)
+  * in-class work on your project
+### D1. Begin Fusion360
   * Learning the interface
-  * The idea of hard surface modeling
+  * Model a pencil sharpener [Fusion360 Intro](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Fusion360Intro.pdf)
+  * Discuss hard surface modeling vs mesh modelling
   * Homework: Follow along with Lars on this famous tutorial: [Beginning Fusion360](https://www.youtube.com/watch?v=A5bc9c3S12g)
-  * Homework: Continue with Lars' Part 2 and Part 3
+  * Homework: Continue with Lars' Part 2 and Part 3 videos
 ### D2. Continue Fusion360
   * Model a PushPin [Fusion360_PushPin](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/Fusion360_PushPin.pdf)
-  * Render an image of the pushpin
+  * Render out an image of the pushpin
   * Make blueprint/plans from the design of the pushpin
   * save out an STL mesh of the pushpin
-  * homework: please watch these tutorial on Constraints:
-  * * [Explainer 1 on Constraints](https://www.youtube.com/watch?v=vNdBkiO8Nfc)
-  * * [Explainer 2 on Constraints](https://www.youtube.com/watch?v=_MpL9fPAUG4)
-  * * [Tutorial: Lego Brick](https://www.youtube.com/watch?v=6yPKMSb6ja8&list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-&index=4)
+  * homework: please watch these tutorials on Constraints:
+    * [Explainer 1 on Constraints](https://www.youtube.com/watch?v=vNdBkiO8Nfc)
+    * [Explainer 2 on Constraints](https://www.youtube.com/watch?v=_MpL9fPAUG4)
+    * [Tutorial: Lego Brick](https://www.youtube.com/watch?v=6yPKMSb6ja8&list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-&index=4)
 ### D3. Continue Fusion360 - NO CLASS TODAY - PRACTICE FROM HOME!
-  * Assignment: Select 3 tutorial from this list and do them: [Fusion360 tutorials](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
+  * Assignment: Select 3 tutorials from this list and do them: [Fusion360 tutorials](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
   * NOTE: The tutorials above are from an older version of Fusion360. This should not impede you from following along. If in doubt, google it!  
 ### D4. Continue Fusion
-  * Model a pencil box
+  * Explain constraints again with a demo
+  * Model a pencil box by yourself
   * Exporting objects as stl meshes
   * Advanced example of fusion360 [Dragon Box](https://www.youtube.com/watch?v=EtlIKFO5qpU&list=PL1-N4Av1H6xPQu_nfsQvzWHP8F917reLC&index=1)
 ### D5. Blender Animation basics
@@ -185,12 +191,11 @@ We will be traversing this calendar list in sequential order from start to finis
   * Interpolation curves
   * Intro to keyframes video: [keyframes](https://www.youtube.com/watch?v=8gi9lUYMRcI)
   * Graph editor video: [graph editor](https://www.youtube.com/watch?v=EBKyfal8Ju8)
-  * advanced animation topics:
-  * * Homework: just watch video on NLA animation: [Non-Linear Animation](https://www.youtube.com/watch?v=Hz1TwvSNsrA&t=56s)
-  * * Homework: just watch second video on NLA [Non-Linear Animation 2](https://www.youtube.com/watch?v=p3m57yAcsi0)
+  * Advanced animation topics:
+    * Homework: just watch video on NLA animation: [Non-Linear Animation](https://www.youtube.com/watch?v=Hz1TwvSNsrA&t=56s)
+    * Homework: just watch second video on NLA [Non-Linear Animation 2](https://www.youtube.com/watch?v=p3m57yAcsi0)
   * Actual Homework: Try keyframing an animation of a bounding basketball
 ### D6. TBA
-  * TBA
-### D7. Last Day
-  * Pizza and farewells
-  * `Project 4 Due April 28`
+  * Grades
+  * Pizza party
+  * Farewells
