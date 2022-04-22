@@ -183,11 +183,12 @@ We will be traversing this calendar list in sequential order from start to finis
 ### D5. Blender Animation basics
   * Keyframes and tweening
   * Interpolation curves
-  * Intro to keyframes [keyframes](https://www.youtube.com/watch?v=8gi9lUYMRcI)
-  * Graph Editor [graph editor](https://www.youtube.com/watch?v=EBKyfal8Ju8)
-  * advanced animation:
-  * * Homework: watch tutorial on NLA animation: [Non-Linear Animation](https://www.youtube.com/watch?v=Hz1TwvSNsrA&t=56s)
-  * * Homework: second video on NLA [Non-Linear Animation 2](https://www.youtube.com/watch?v=p3m57yAcsi0)
+  * Intro to keyframes video: [keyframes](https://www.youtube.com/watch?v=8gi9lUYMRcI)
+  * Graph editor video: [graph editor](https://www.youtube.com/watch?v=EBKyfal8Ju8)
+  * advanced animation topics:
+  * * Homework: just watch video on NLA animation: [Non-Linear Animation](https://www.youtube.com/watch?v=Hz1TwvSNsrA&t=56s)
+  * * Homework: just watch second video on NLA [Non-Linear Animation 2](https://www.youtube.com/watch?v=p3m57yAcsi0)
+  * Actual Homework: Try keyframing an animation of a bounding basketball
 ### D6. TBA
   * TBA
 ### D7. Last Day
