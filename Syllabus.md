@@ -1,5 +1,5 @@
 ## Digital Modelling Methods - ART 3367/3396
-## Instructor: Daniel Calderon (noah.leen@gmail.com)
+## Instructor: Noah Leen (noah.leen@gmail.com)
 # Syllabus
 [PDF version here](https://github.com/dacaldera/DMM_Fall2021/blob/main/course_content/pdfs/SYLLABUS_2022.pdf)
 ## Course Description
